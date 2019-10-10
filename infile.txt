@@ -1,0 +1,6 @@
+Herold, Will     0     2234 123 Main St.      Washington, DC   20019 5.67   F
+Jackson, Stan    4     3748 12 Douglas Ave.   Baltimore, MD    30229 10.00  P
+Jerry, Francis   3     6666 2345 6th Street   Woodbridge, VA   44040 23.50  P
+John, Wilson     2     1234 12 Georgia Ave.   Washington, DC   20019 10.40  F
+Smith, Stanley   6     3456 56 D Street       Baltimore, MD    30229 12.20  P
+Jeffers, Claude  1     2311 66 32nd Street    Woodbridge, VA   44040 42.03  F
